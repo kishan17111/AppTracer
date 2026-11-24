@@ -10,7 +10,7 @@ An Android application monitoring tool that tracks applications installed and un
 ![Platform](https://img.shields.io/badge/Platform-Android-brightgreen?logo=android)
 ![Tracking](https://img.shields.io/badge/History-30%20Days-blue)
 ![Category](https://img.shields.io/badge/Category-App%20Monitoring-purple)
-
+![OTP Verification](https://img.shields.io/badge/Security-OTP%20Verification-success)
 </div>
 
 ---
@@ -24,6 +24,13 @@ An Android application monitoring tool that tracks applications installed and un
 | 🕒 Date & Time | View installation and deletion timestamps. |
 | 📅 30-Day History | Track application changes over the last 30 days. |
 | 🔍 App Monitoring | Monitor all types of applications, not just root-related apps. |
+
+
+1. OTP Lock Verification
+|Requires OTP (One-Time Password) verification before allowing access to the application.|
+|Prevents unauthorized users from accessing the application.|
+|Grants access only after successful OTP verification.|
+|Provides an additional layer of application security.|
 
 ## ⚙️ How It Works
 
